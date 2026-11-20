@@ -8,7 +8,7 @@
 
 <h1>✨ Features</h1>
 
-Modern and attractive homepage design.
+<b>Modern and attractive homepage design.
 
 Navigation menu: Home, Course, About, Certificate, Gallery, Contact.
 
@@ -22,11 +22,11 @@ Course cards for:
 
 Python Programming
 
-Data Science
+Data Science</b>
 <img width="1365" height="347" alt="image" src="https://github.com/user-attachments/assets/7b2d4e8a-4754-49d9-b311-5801aa0d75e8" />
 <h1>📞 Footer Section</h1>
 
-The website footer provides important information and quick links for visitors.
+<b>The website footer provides important information and quick links for visitors.
 
 Footer Content
 
@@ -122,7 +122,7 @@ Add contact form functionality.
 
 Created as an HTML and CSS practice project for my web development portfolio.
 
-Project Name: Bright Future – Computer Training Center
+Project Name: Bright Future – Computer Training Center</b>
 <img width="1351" height="281" alt="image" src="https://github.com/user-attachments/assets/5132bd28-1b4c-4ced-92de-536543701e0f" />
 
 
