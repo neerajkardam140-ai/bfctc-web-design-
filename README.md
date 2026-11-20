@@ -1,6 +1,6 @@
 # BRIGHT FUTURE COMPUTER TRAINING CENTER
 
-<u><H1>🎓 Bright Future – Computer Training Center Website</H1></u>
+<H1><u>🎓 Bright Future – Computer Training Center Website</u></H1>
 <dl>
 <dt>📌 Project Overview</dt>
 <dd>Bright Future is a modern and responsive computer training center website designed to showcase computer courses and help students explore learning opportunities. The website features a clean layout, attractive blue-and-white color theme, and user-friendly navigation.
