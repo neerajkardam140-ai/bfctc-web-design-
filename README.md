@@ -6,7 +6,7 @@
 <dd>Bright Future is a modern and responsive computer training center website designed to showcase computer courses and help students explore learning opportunities. The website features a clean layout, attractive blue-and-white color theme, and user-friendly navigation.
 </dd></dl>
 
-✨ Features
+<h1>✨ Features</h1>
 
 Modern and attractive homepage design.
 
@@ -96,17 +96,17 @@ Join Now button.
 
 Clean and professional UI design.
 
-🛠️ Technologies Used
+<h2>🛠️ Technologies Used</h2>
 
 HTML5
 
 CSS3
 
-🎯 Project Purpose
+<dd>🎯 Project </dd>
 
-The purpose of this project is to create a professional educational website that presents computer training courses in an attractive and organized way.
+<dt>The purpose of this project is to create a professional educational website that presents computer training courses in an attractive and organized way.</dt>
 
-🚀 Future Improvements
+<h1>🚀 Future Improvements</h1>
 
 Add responsive mobile design.
 
@@ -118,7 +118,7 @@ Add certificate verification.
 
 Add contact form functionality.
 
-👨‍💻 Developer
+<h1>👨‍💻 Developer</h1>
 
 Created as an HTML and CSS practice project for my web development portfolio.
 
