@@ -1,12 +1,12 @@
 # BRIGHT FUTURE COMPUTER TRAINING CENTER
 
-<H1>🎓 Bright Future – Computer Training Center Website</H1>
+<u><H1>🎓 Bright Future – Computer Training Center Website</H1></u>
 <dl>
 <dt>📌 Project Overview</dt>
 <dd>Bright Future is a modern and responsive computer training center website designed to showcase computer courses and help students explore learning opportunities. The website features a clean layout, attractive blue-and-white color theme, and user-friendly navigation.
 </dd></dl>
 
-<h1>✨ Features</h1>
+<u><h1>✨ Features</h1></u>
 
 <b>Modern and attractive homepage design.
 
@@ -24,7 +24,7 @@ Python Programming
 
 Data Science</b>
 <img width="1365" height="347" alt="image" src="https://github.com/user-attachments/assets/7b2d4e8a-4754-49d9-b311-5801aa0d75e8" />
-<h1>📞 Footer Section</h1>
+<u><h1>📞 Footer Section</h1></u>
 
 <b>The website footer provides important information and quick links for visitors.
 
@@ -96,7 +96,7 @@ Join Now button.
 
 Clean and professional UI design.
 
-<h2>🛠️ Technologies Used</h2>
+<u><h2>🛠️ Technologies Used</h2></u>
 
 HTML5
 
