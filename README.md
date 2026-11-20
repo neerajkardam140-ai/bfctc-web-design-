@@ -1,4 +1,6 @@
 # BRIGHT FUTURE COMPUTER TRAINING CENTER
+<img width="1365" height="347" alt="image" src="https://github.com/user-attachments/assets/7b2d4e8a-4754-49d9-b311-5801aa0d75e8" />
+
 <H1>🎓 Bright Future – Computer Training Center Website</H1>
 <dl>
 <dt>📌 Project Overview</dt>
@@ -22,6 +24,8 @@ Course cards for:
 Python Programming
 
 Data Science
+<img width="1351" height="281" alt="image" src="https://github.com/user-attachments/assets/5132bd28-1b4c-4ced-92de-536543701e0f" />
+
 <h1>📞 Footer Section</h1>
 
 The website footer provides important information and quick links for visitors.
